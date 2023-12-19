@@ -10,3 +10,4 @@
 - `git push <nazwa remote> <nazwa gałęzi>` - wysłanie zmian do repozytorium
 - `git fetch` - sprawdzenie czy są nowe zmiany w repozytorium
 - `git pull` - aktualizacja danych z repozytorium do obecnej gałęzi
+- `git merge <nazwa gałęzi>` - pobranie danych z <nazwa gałęzi> do gałęzi na której się teraz znajdujemy
