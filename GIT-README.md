@@ -8,3 +8,5 @@
 - `git add <katalog/plik>` - dodaje katalog/plik do zarejestrowanych zmian
 - `git commit -m "<Treść commita>"` - tworzy commit (zatwierdzenie) zmian zarejestrowanych przez `git add`
 - `git push <nazwa remote> <nazwa gałęzi>` - wysłanie zmian do repozytorium
+- `git fetch` - sprawdzenie czy są nowe zmiany w repozytorium
+- `git pull` - aktualizacja danych z repozytorium do obecnej gałęzi
